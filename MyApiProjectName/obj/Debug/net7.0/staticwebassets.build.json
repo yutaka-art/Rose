@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fOseiqwESEXdMBMoW9jeptfpADH8DEuQ705GSu0XtQo=",
+  "Source": "MyApiProjectName",
+  "BasePath": "_content/MyApiProjectName",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
