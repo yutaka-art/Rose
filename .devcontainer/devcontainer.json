@@ -1,10 +1,10 @@
 {
-    "name": "SQL Server & .NET Core",
-    "dockerFile": "Dockerfile",
-    "forwardPorts": [ 1433 ],
-    "postCreateCommand": "dotnet restore",
+    "name": "SQL Server & .NET Core" ,
+    "dockerFile": "Dockerfile" ,
+    "forwardPorts": [ 1433 ] ,
+    "postCreateCommand": "dotnet restore" ,
     "extensions": [
-      "ms-dotnettools.csharp",
+      "ms-dotnettools.csharp" ,
       "ms-mssql.mssql"
     ]
   }
